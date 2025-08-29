@@ -26,3 +26,7 @@ A Spring Boot application that automatically solves SQL problems and submits sol
 
 # Run the application
 java -jar target/health-qualifier-0.0.1-SNAPSHOT.jar
+
+
+
+<img width="1741" height="304" alt="image" src="https://github.com/user-attachments/assets/9d1c0995-6091-4acb-88bc-112bde847a04" />
